@@ -14,8 +14,6 @@
         </nav>
     </header>
     
-    @yield('ad')
-    
     <main>
         @yield('content')
     </main>
