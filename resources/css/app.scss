@@ -2,5 +2,12 @@
 
 body{
     font-family: 'Roboto', sans-serif;
+    color: base.$primary-color;
     background-color: base.$primary-bg;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: base.$accent-color;
 }
