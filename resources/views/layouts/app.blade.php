@@ -10,7 +10,13 @@
 <body>
     <header id="header">
         <nav class="header-inner">
+                <div class="logo">
+                    <a href="{{ url('/') }}">MyApp</a>
+                </div>
+                
+                <ul class="nav-links">
 
+                </ul>
         </nav>
     </header>
     

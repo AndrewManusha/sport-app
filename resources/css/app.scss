@@ -1,0 +1,6 @@
+@use 'base' as base;
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: base.$primary-bg;
+}
